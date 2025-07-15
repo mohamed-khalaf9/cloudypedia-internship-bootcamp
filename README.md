@@ -54,7 +54,7 @@ cloudypedia-internship-bootcamp/
 └── README.md                   # Main repository guide
 ```
 ---
-Here's the formatted text optimized for a GitHub README or CONTRIBUTING.md file. You can copy-paste this directly:
+
 
 ## 🧑‍💻 Contribution Guidelines
 
