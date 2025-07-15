@@ -65,8 +65,8 @@ If you're a collaborator, please use a **Pull Request (PR)** instead of pushing 
 
 #### 🧭 1. Clone the Repo (First Time Only)
 ```bash
-git clone https://github.com/cloudypedia/gcp-bootcamp-cloudypedia.git
-cd gcp-bootcamp-cloudypedia
+git clone https://github.com/mohamed-khalaf9/cloudypedia-internship-bootcamp.git
+cd /cloudypedia-internship-bootcamp
 ```
 
 #### 🔄 2. Create a New Branch
