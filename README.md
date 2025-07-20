@@ -25,35 +25,32 @@ The goal is to build a **collaborative, structured, and reusable reference** tha
 ---
 
 ## 📁 Folder Structure
-
-This repository is organized by bootcamp day (10 total), and each day contains the modules we covered.  
-The structure ensures that everyone can easily share summaries, notes, and resources in a consistent and reusable way.
-
-Here’s how the folders are structured:
-
-```text
+This repository is organized by course, and each course contains multiple modules.
+Each module is designed to be self-contained, including shared resources, personal notes, and summaries to support collaborative learning and knowledge sharing.
+Here’s how the folder structure is organized:
+```
 cloudypedia-internship-bootcamp/
 │
-├── 01day/                      # Content for Day 01 of the bootcamp
-│   ├── readinglist.md           # Shared resources (articles, videos, blogs)
-│   ├── module-1-intro-to-gcp/   # Module 1: Introduction to GCP
-│   │   ├── notes/               # Personal insights and observations
+├── course-name/                     # Name of the course (e.g., gcp-fundamentals)
+│   ├── readinglist.md              # Global reading list for the course (articles, videos, blogs)
+│   ├── module-1-intro-to-gcp/      # Module 1: Introduction to GCP
+│   │   ├── notes/                  # Personal insights and observations
 │   │   │   └── mohamed-notes.md
-│   │   ├── summaries/          # Structured module overviews
+│   │   ├── summaries/              # Structured overviews and recaps
 │   │   │   └── mohamed-summary.md
-│   └── module-2-iam/           # Module 2: 
+│   └── module-2-iam/               # Module 2: Identity and Access Management
 │       ├── notes/
 │       └── summaries/
 │
-├── 02day/                     # Content for Day 02
+├── another-course-name/            # Another course (e.g., apigee-api-management)
 │   ├── readinglist.md
 │   └── module-x/
 │       ├── notes/
 │       └── summaries/
 │
-└── README.md                   # Main repository guide
+└── README.md                       # Main repository guide
 ```
----
+
 
 
 ## 🧑‍💻 Contribution Guidelines
